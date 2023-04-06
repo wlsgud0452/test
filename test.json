@@ -1,0 +1,146 @@
+{
+  "data" :{
+    "userId": 121212,
+    "name": "홍길동",
+    "healthScreenings": {
+      "hospital": [
+        {
+          "name": "원닥 내과",
+          "date": "2022-01-01T00:00:00.000Z",
+          "finalResult": "질환의심",
+          "division": "일반",
+          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+          "bloodTest": [
+            {
+              "hemoglobin": 13.6,
+              "creatinine": 1,
+              "gfr": 89,
+              "FBS": 97,
+              "TCholesterol": 180,
+              "HDL": 55,
+              "TG": 145,
+              "LDL": 120
+            }
+          ],
+          "urineTest": [
+            {
+              "proteinuria": "nomal"
+            }
+          ],
+          "imagingTest": [
+            {
+              "chestXray": "nomal"
+            }
+          ]
+        }
+      ]
+    },
+    "hospitals": [
+      {
+        "name": "원닥2 내과",
+        "date": "2022-02-01T00:00:00.000Z",
+        "finalResult": "정상",
+        "division": "일반",
+        "overallOpinion": "적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+        "bloodTest": [
+          {
+            "hemoglobin": 15.6,
+            "creatinine": 2,
+            "gfr": 90,
+            "FBS": 87,
+            "TCholesterol": 170,
+            "HDL": 50,
+            "TG": 140,
+            "LDL": 110
+          }
+        ],
+        "urineTest": [
+          {
+            "proteinuria": "nomal"
+          }
+        ],
+        "imagingTest": [
+          {
+            "chestXray": "nomal"
+          }
+        ]
+      }
+    ],
+    "inoculation": [
+      {
+        "hospital": "원닥내과",
+        "name": "독감",
+        "count": 1,
+        "date": "2022-01-01T00:00:00.000Z"
+      },
+      {
+        "hospital": "원닥내과",
+        "name": "독감",
+        "count": 2,
+        "date": "2022-02-01T00:00:00.000Z"
+      },
+      {
+        "hospital": "원닥내과",
+        "name": "독감",
+        "count": 3,
+        "date": "2022-03-01T00:00:00.000Z"
+      },
+      {
+        "hospital": "원닥내과",
+        "name": "독감",
+        "count": 4,
+        "date": "2022-04-01T00:00:00.000Z"
+      }
+    ],
+    "dosage": [
+      {
+        "pharmacy": "원닥약국",
+        "date": "2022-01-01T00:00:00.000Z",
+        "medicines": [
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 1
+          },
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 1
+          },
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "pharmacy": "원닥약국",
+        "date": "2022-02-01T00:00:00.000Z",
+        "medicines": [
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 2
+          },
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 2
+          },
+          {
+            "name": "코싹엘정",
+            "classification": "항히스타민제",
+            "comment": "아침,점심,저녁 식후 30분후에 드세요",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+}
