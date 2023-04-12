@@ -15,7 +15,7 @@
                   "creatinine":1,
                   "gfr":89,
                   "fbs":97,
-                  "tcholesterol":180,
+                  "tCholesterol":180,
                   "hdl":55,
                   "tg":145,
                   "ldl":120
@@ -38,7 +38,7 @@
                   "creatinine":2,
                   "gfr":90,
                   "fbs":97,
-                  "tcholesterol":180,
+                  "tCholesterol":180,
                   "hdl":55,
                   "tg":145,
                   "ldl":120
