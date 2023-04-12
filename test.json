@@ -14,11 +14,11 @@
                   "hemoglobin":13.6,
                   "creatinine":1,
                   "gfr":89,
-                  "FBS":97,
-                  "TCholesterol":180,
-                  "HDL":55,
-                  "TG":145,
-                  "LDL":120
+                  "fbs":97,
+                  "tCholesterol":180,
+                  "hdl":55,
+                  "tg":145,
+                  "ldl":120
                },
                "urineTest":{
                   "proteinuria":"nomal"
@@ -37,11 +37,11 @@
                   "hemoglobin":15.6,
                   "creatinine":2,
                   "gfr":90,
-                  "FBS":87,
-                  "TCholesterol":170,
-                  "HDL":50,
-                  "TG":140,
-                  "LDL":110
+                  "fbs":97,
+                  "tCholesterol":180,
+                  "hdl":55,
+                  "tg":145,
+                  "ldl":120
                },
                "urineTest":{
                   "proteinuria":"nomal"
