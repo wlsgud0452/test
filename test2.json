@@ -5,7 +5,7 @@
     "healthScreenings": {
       "hospitals": [
         {
-          "code": "c001"
+          "code": "c001",
           "name": "원닥 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "건강",
@@ -29,7 +29,7 @@
           }
         },
         {
-          "code": "c002"
+          "code": "c002",
           "name": "도체오 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "질환의심",
@@ -53,7 +53,7 @@
           }
         },
         {
-          "code": "c003"
+          "code": "c003",
           "name": "교대역 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "양호",
@@ -156,7 +156,7 @@
     ],
     "dosage": [
       {
-        "code": "c001"
+        "code": "c001",
         "pharmacy": "서울약국",
         "date": "2022-01-01T00:00:00.000Z",
         "medicines": [
@@ -181,7 +181,7 @@
         ]
       },
       {
-        "code": "c002"
+        "code": "c002",
         "pharmacy": "원닥약국",
         "date": "2022-02-01T00:00:00.000Z",
         "medicines": [
