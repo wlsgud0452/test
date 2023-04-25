@@ -22,10 +22,10 @@
             "ldl": 1
           },
           "urineTest": {
-            "proteinuria": "nomal"
+            "proteinuria": "정상"
           },
           "imagingTest": {
-            "chestXray": "nomal"
+            "chestXray": "양호"
           }
         },
         {
@@ -34,22 +34,22 @@
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "질환의심",
           "division": "심각",
-          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+          "overallOpinion": "아주 건강하십니다.",
           "bloodTest": {
-            "hemoglobin": 1,
-            "creatinine": 1,
-            "gfr": 1,
-            "fbs": 1,
-            "tCholesterol": 1,
-            "hdl": 1,
-            "tg": 1,
-            "ldl": 1
+            "hemoglobin": 2,
+            "creatinine": 2,
+            "gfr": 2,
+            "fbs": 2,
+            "tCholesterol": 2,
+            "hdl": 2,
+            "tg": 2,
+            "ldl": 2
           },
           "urineTest": {
-            "proteinuria": "nomal"
+            "proteinuria": "정상"
           },
           "imagingTest": {
-            "chestXray": "nomal"
+            "chestXray": "양호"
           }
         },
         {
@@ -58,19 +58,19 @@
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "양호",
           "division": "일반",
-          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+          "overallOpinion": "마음의 준비를 하세요",
           "bloodTest": {
-            "hemoglobin": 1,
-            "creatinine": 1,
-            "gfr": 1,
-            "fbs": 1,
-            "tCholesterol": 1,
-            "hdl": 1,
-            "tg": 1,
-            "ldl": 1
+            "hemoglobin": 3,
+            "creatinine": 3,
+            "gfr": 3,
+            "fbs": 3,
+            "tCholesterol": 3,
+            "hdl": 3,
+            "tg": 3,
+            "ldl": 3
           },
           "urineTest": {
-            "proteinuria": "nomal"
+            "proteinuria": "정상"
           },
           "imagingTest": {
             "chestXray": "nomal"
