@@ -5,6 +5,7 @@
     "healthScreenings": {
       "hospitals": [
         {
+          "code": "c001"
           "name": "원닥 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "건강",
@@ -28,6 +29,7 @@
           }
         },
         {
+          "code": "c002"
           "name": "도체오 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "질환의심",
@@ -51,6 +53,7 @@
           }
         },
         {
+          "code": "c003"
           "name": "교대역 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "양호",
