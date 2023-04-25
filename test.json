@@ -22,10 +22,10 @@
             "ldl": 120
           },
           "urineTest": {
-            "proteinuria": "nomal"
+            "proteinuria": "정상"
           },
           "imagingTest": {
-            "chestXray": "nomal"
+            "chestXray": "양호"
           }
         },
         {
@@ -46,10 +46,10 @@
             "ldl": 120
           },
           "urineTest": {
-            "proteinuria": "nomal"
+            "proteinuria":"정상"
           },
           "imagingTest": {
-            "chestXray": "nomal"
+            "chestXray": "양호"
           }
         }
       ]
