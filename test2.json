@@ -11,37 +11,14 @@
           "division": "일반",
           "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
           "bloodTest": {
-            "hemoglobin": 13.6,
+            "hemoglobin": 1,
             "creatinine": 1,
-            "gfr": 89,
-            "fbs": 97,
-            "tCholesterol": 180,
-            "hdl": 55,
-            "tg": 145,
-            "ldl": 120
-          },
-          "urineTest": {
-            "proteinuria": "nomal"
-          },
-          "imagingTest": {
-            "chestXray": "nomal"
-          }
-        },
-        {
-          "name": "원닥12 내과",
-          "date": "2022-02-01T00:00:00.000Z",
-          "finalResult": "정상",
-          "division": "일반",
-          "overallOpinion": "적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
-          "bloodTest": {
-            "hemoglobin": 15.6,
-            "creatinine": 2,
-            "gfr": 90,
-            "fbs": 97,
-            "tCholesterol": 180,
-            "hdl": 70,
-            "tg": 150,
-            "ldl": 130
+            "gfr": 1,
+            "fbs": 1,
+            "tCholesterol": 1,
+            "hdl": 1,
+            "tg": 1,
+            "ldl": 1
           },
           "urineTest": {
             "proteinuria": "nomal"
@@ -54,37 +31,37 @@
     },
     "medicalhistory": [
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-01-01T00:00:00.000Z",
         "count": "2",
         "address": "서울시 강남구 강남대로1 3층"
       },
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-02-01T00:00:00.000Z",
         "count": "1",
         "address": "서울시 강남구 강남대로1 3층"
       },
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-03-01T00:00:00.000Z",
         "count": "2",
         "address": "서울시 강남구 강남대로1 3층"
       },
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-04-01T00:00:00.000Z",
         "count": "1",
         "address": "서울시 관악구 신린로66길 56-5 "
       },
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-04-01T00:00:00.000Z",
         "count": "1",
         "address": "서울시 관악구 신린로66길 56-5 "
       },
       {
-        "hospitalname": "원내과",
+        "hospitalname": "내안에내과",
         "date": "2022-04-01T00:00:00.000Z",
         "count": "1",
         "address": "서울시 관악구 신린로66길 56-5 "
@@ -92,37 +69,37 @@
     ],
     "inoculation": [
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 1,
         "date": "2022-01-01T00:00:00.000Z"
       },
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 2,
         "date": "2022-02-01T00:00:00.000Z"
       },
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 3,
         "date": "2022-03-01T00:00:00.000Z"
       },
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 4,
         "date": "2022-04-01T00:00:00.000Z"
       },
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 4,
         "date": "2022-04-01T00:00:00.000Z"
       },
       {
-        "hospital": "원닥내과",
+        "hospital": "교대병원",
         "name": "독감",
         "count": 4,
         "date": "2022-04-01T00:00:00.000Z"
@@ -130,23 +107,23 @@
     ],
     "dosage": [
       {
-        "pharmacy": "원닥약국",
+        "pharmacy": "서울약국",
         "date": "2022-01-01T00:00:00.000Z",
         "medicines": [
           {
-            "name": "코싹엘정",
+            "name": "싹코엘정",
             "classification": "항히스타민제",
             "comment": "아침,점심,저녁 식후 30분후에 드세요",
             "quantity": 1
           },
           {
-            "name": "코싹엘정",
+            "name": "이소티논",
             "classification": "항히스타민제",
             "comment": "아침,점심,저녁 식후 30분후에 드세요",
             "quantity": 1
           },
           {
-            "name": "코싹엘정",
+            "name": "이소티논",
             "classification": "항히스타민제",
             "comment": "아침,점심,저녁 식후 30분후에 드세요",
             "quantity": 1
