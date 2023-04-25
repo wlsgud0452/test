@@ -39,9 +39,9 @@
             "gfr": 90,
             "fbs": 97,
             "tCholesterol": 180,
-            "hdl": 55,
-            "tg": 145,
-            "ldl": 120
+            "hdl": 70,
+            "tg": 150,
+            "ldl": 130
           },
           "urineTest": {
             "proteinuria": "nomal"
