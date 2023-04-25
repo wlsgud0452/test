@@ -5,6 +5,7 @@
     "healthScreenings": {
       "hospitals": [
         {
+          "code": "c001"
           "name": "원닥 내과",
           "date": "2022-01-01T00:00:00.000Z",
           "finalResult": "질환의심",
@@ -28,6 +29,7 @@
           }
         },
         {
+          "code": "c002"
           "name": "원닥12 내과",
           "date": "2022-02-01T00:00:00.000Z",
           "finalResult": "정상",
