@@ -31,7 +31,7 @@
         {
           "code": "c002",
           "name": "도체오 내과",
-          "date": "2022-01-01T00:00:00.000Z",
+          "date": "2022-02-01T00:00:00.000Z",
           "finalResult": "질환의심",
           "division": "심각",
           "overallOpinion": "아주 건강하십니다.",
@@ -55,7 +55,7 @@
         {
           "code": "c003",
           "name": "교대역 내과",
-          "date": "2022-01-01T00:00:00.000Z",
+          "date": "2022-03-01T00:00:00.000Z",
           "finalResult": "양호",
           "division": "일반",
           "overallOpinion": "마음의 준비를 하세요",
