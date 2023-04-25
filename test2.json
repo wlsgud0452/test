@@ -26,7 +26,53 @@
           "imagingTest": {
             "chestXray": "nomal"
           }
-        }
+        },
+        {
+          "name": "도체오 내과",
+          "date": "2022-01-01T00:00:00.000Z",
+          "finalResult": "질환의심",
+          "division": "일반",
+          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+          "bloodTest": {
+            "hemoglobin": 1,
+            "creatinine": 1,
+            "gfr": 1,
+            "fbs": 1,
+            "tCholesterol": 1,
+            "hdl": 1,
+            "tg": 1,
+            "ldl": 1
+          },
+          "urineTest": {
+            "proteinuria": "nomal"
+          },
+          "imagingTest": {
+            "chestXray": "nomal"
+          }
+        },
+        {
+          "name": "교대역 내과",
+          "date": "2022-01-01T00:00:00.000Z",
+          "finalResult": "질환의심",
+          "division": "일반",
+          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
+          "bloodTest": {
+            "hemoglobin": 1,
+            "creatinine": 1,
+            "gfr": 1,
+            "fbs": 1,
+            "tCholesterol": 1,
+            "hdl": 1,
+            "tg": 1,
+            "ldl": 1
+          },
+          "urineTest": {
+            "proteinuria": "nomal"
+          },
+          "imagingTest": {
+            "chestXray": "nomal"
+          }
+        },
       ]
     },
     "medicalhistory": [
