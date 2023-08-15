@@ -39,5 +39,46 @@
 },
 "isOnedoc": false,
 "isEnable": true
+},
+  {
+"id": "24c0d26cec0f60fb585cf46010644136",
+"name": "즐거운약국",
+"tel": "0200001111",
+"createdAt": null,
+"updatedAt": null,
+"representativeName": "기업",
+"workTimes": [
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
+},
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
+},
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
+}
+],
+"address": {
+"postcode": "",
+"roadname": "서울특별시 서초구 동광로1길 112",
+"landname": null,
+"detail": " 206호 (방배동)"
+},
+"location": {
+"latitude": 37.49714626778999,
+"longitude": 126.98514058927584,
+"distance": 3414
+},
+"isOnedoc": false,
+"isEnable": true
 }
 ]
