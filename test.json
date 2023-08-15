@@ -1,168 +1,43 @@
+[
 {
-  "data": {
-    "userId": 121212,
-    "name": "홍길동",
-    "healthScreenings": {
-      "hospitals": [
-        {
-          "code": "c001",
-          "name": "원닥 내과",
-          "date": "2022-01-01T00:00:00.000Z",
-          "finalResult": "질환의심",
-          "division": "일반",
-          "overallOpinion": "생활습관 관리가 필요합니다. 적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
-          "bloodTest": {
-            "hemoglobin": 13.6,
-            "creatinine": 1,
-            "gfr": 89,
-            "fbs": 97,
-            "tCholesterol": 180,
-            "hdl": 55,
-            "tg": 145,
-            "ldl": 120
-          },
-          "urineTest": {
-            "proteinuria": "정상"
-          },
-          "imagingTest": {
-            "chestXray": "양호"
-          }
-        },
-        {
-          "code": "c002",
-          "name": "원닥12 내과",
-          "date": "2022-02-01T00:00:00.000Z",
-          "finalResult": "정상",
-          "division": "일반",
-          "overallOpinion": "적잘한 음주 또는 금주가 필요합니다. 생활습관 관리에서 신체 활동량을 늘리세요",
-          "bloodTest": {
-            "hemoglobin": 15.6,
-            "creatinine": 2,
-            "gfr": 90,
-            "fbs": 97,
-            "tCholesterol": 180,
-            "hdl": 55,
-            "tg": 145,
-            "ldl": 120
-          },
-          "urineTest": {
-            "proteinuria":"정상"
-          },
-          "imagingTest": {
-            "chestXray": "양호"
-          }
-        }
-      ]
-    },
-    "medicalhistory": [
-      {
-        "hospitalname": "원내과",
-        "date": "2022-01-01T00:00:00.000Z",
-        "count": "2",
-        "address": "서울시 강남구 강남대로1 3층"
-      },
-      {
-        "hospitalname": "원내과",
-        "date": "2022-02-01T00:00:00.000Z",
-        "count": "1",
-        "address": "서울시 강남구 강남대로1 3층"
-      },
-      {
-        "hospitalname": "원내과",
-        "date": "2022-03-01T00:00:00.000Z",
-        "count": "2",
-        "address": "서울시 강남구 강남대로1 3층"
-      },
-      {
-        "hospitalname": "원내과",
-        "date": "2022-04-01T00:00:00.000Z",
-        "count": "1",
-        "address": "서울시 관악구 신린로66길 56-5 "
-      },
-      {
-        "hospitalname": "원내과",
-        "date": "2022-04-01T00:00:00.000Z",
-        "count": "1",
-        "address": "서울시 관악구 신린로66길 56-5 "
-      }
-    ],
-    "inoculation": [
-      {
-        "hospital": "원닥내과",
-        "name": "독감",
-        "count": 1,
-        "date": "2022-01-01T00:00:00.000Z"
-      },
-      {
-        "hospital": "원닥내과",
-        "name": "독감",
-        "count": 2,
-        "date": "2022-02-01T00:00:00.000Z"
-      },
-      {
-        "hospital": "원닥내과",
-        "name": "독감",
-        "count": 3,
-        "date": "2022-03-01T00:00:00.000Z"
-      },
-      {
-        "hospital": "원닥내과",
-        "name": "독감",
-        "count": 4,
-        "date": "2022-04-01T00:00:00.000Z"
-      }
-    ],
-    "dosage": [
-      {
-        "code": "c001",
-        "pharmacy": "원닥약국",
-        "date": "2022-01-01T00:00:00.000Z",
-        "medicines": [
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 1
-          },
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 1
-          },
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 1
-          }
-        ]
-      },
-      {
-          "code": "c002",
-        "pharmacy": "원닥약국",
-        "date": "2022-02-01T00:00:00.000Z",
-        "medicines": [
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 2
-          },
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 2
-          },
-          {
-            "name": "코싹엘정",
-            "classification": "항히스타민제",
-            "comment": "아침,점심,저녁 식후 30분후에 드세요",
-            "quantity": 2
-          }
-        ]
-      }
-    ]
-  }
+"id": "24c0d26cec0f60fb585cf46010644136",
+"name": "즐거운약국",
+"tel": "0200001111",
+"createdAt": null,
+"updatedAt": null,
+"representativeName": "기업",
+"workTimes": [
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
+},
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
+},
+{
+"startTime": "00:00:00",
+"endTime": "00:00:00",
+"dayOfWeek": 1,
+"enable": true
 }
+],
+"address": {
+"postcode": "",
+"roadname": "서울특별시 서초구 동광로1길 112",
+"landname": null,
+"detail": " 206호 (방배동)"
+},
+"location": {
+"latitude": 37.49714626778999,
+"longitude": 126.98514058927584,
+"distance": 3414
+},
+"isOnedoc": false,
+"isEnable": true
+}
+]
