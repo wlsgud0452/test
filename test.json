@@ -14,15 +14,15 @@
 "enable": true
 },
 {
-"startTime": "00:00:00",
-"endTime": "00:00:00",
-"dayOfWeek": 1,
+"startTime": "09:00:00",
+"endTime": "23:50:00",
+"dayOfWeek": 3,
 "enable": true
 },
 {
-"startTime": "00:00:00",
-"endTime": "00:00:00",
-"dayOfWeek": 1,
+"startTime": "09:00:00",
+"endTime": "23:50:00",
+"dayOfWeek": 4,
 "enable": true
 }
 ],
