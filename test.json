@@ -42,11 +42,11 @@
 },
   {
 "id": "24c0d26cec0f60fb585cf46010644136",
-"name": "즐거운약국",
+"name": "재밌는약국",
 "tel": "0200001111",
 "createdAt": null,
 "updatedAt": null,
-"representativeName": "기업",
+"representativeName": "농협",
 "workTimes": [
 {
 "startTime": "00:00:00",
@@ -69,9 +69,9 @@
 ],
 "address": {
 "postcode": "",
-"roadname": "서울특별시 서초구 동광로1길 112",
+"roadname": "서울특별시 서초중앙로 12길 7",
 "landname": null,
-"detail": " 206호 (방배동)"
+"detail": "1층 도체오"
 },
 "location": {
 "latitude": 37.49714626778999,
